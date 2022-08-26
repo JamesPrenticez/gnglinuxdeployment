@@ -3,8 +3,14 @@
 # Google Automator
 #
 
-
-
+# Please go back and make sure you have the following switches:
+# projectID = "datacom-grabngo-production"
+# serviceAcct = "DatacomGrabnGoSA"
+# domainName = ""
+# adminEmail = ""
+# oauthID = "hueZVCiBmh9hBSBc113mUXqW"
+# sendAsEmail = ""
+# adminGroup = ""
 
 using_git_first_time()
 {
